@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Técnico em Informática pelo IFFAR-SA<br>🔭 Sou Estudante de programação front end e back end<br>
+💬 Técnico em Informática pelo IFFAR-SA<br>💬 Cursando Engenharia de Software na UNIJUI IJUI <br>🔭 Sou Estudante de programação front end e back end<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/https://www.instagram.com/mateus_hoppen?igsh=Mm91em9jOWFyZ24=) 
